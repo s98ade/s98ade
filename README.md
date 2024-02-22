@@ -9,7 +9,7 @@
 🛠️ My current tech stack:
   - currently mostly used languages ➡️ C
   - mostly used tools ➡️  Git, Bash, Linux
-  - getting a hang on it ➡️ MySQL, Python, Javascript
+  - getting a hang on it ➡️ MySQL, Python, Javascript, Figma
 
 ⚔️ Voluntarily physical conditioning coach of the Finnish Kendo National Team
 
