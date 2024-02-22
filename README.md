@@ -15,6 +15,6 @@
 
 🏃 In my free time I enjoy doing sports (indoors & outdoors), coaching Kendo, and trying out new technologies
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s98ade&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s98ade&layout=compact&)](https://github.com/anuraghazra/github-readme-stats)
 
     
