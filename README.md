@@ -5,7 +5,7 @@
 
 💻 Additionally, I'm studying @<a href="https://www.laurea.fi/en/degree_programmes/business-management-and-information-technology/business-information-technology/">Laurea UAS</a> the BIT programme "Developing Digital Services"
 
-♥️ My interest lies in web development (specifically in Full Stack development) and designing meaningful digital services 
+♥️ My interest lies in Data Science/Data Analysis and designing meaningful digital services 
 
 ⚔️ Voluntarily physical conditioning coach of the Finnish Kendo National Team
 
