@@ -1,9 +1,7 @@
 <h2>Hi! Nice to have you here!🌻</h2>
 <h3>About me:</h3>
 
-🐝 I'm currently studying software development @<a href="https://www.hive.fi/en/">Hive Helsinki</a>
-
-💻 Additionally, I'm studying @<a href="https://www.laurea.fi/en/degree_programmes/business-management-and-information-technology/business-information-technology/">Laurea UAS</a> the BIT programme "Developing Digital Services"
+💻 I'm currently studying @<a href="https://www.laurea.fi/en/degree_programmes/business-management-and-information-technology/business-information-technology/">Laurea UAS</a> the BIT programme "Developing Digital Services"
 
 ♥️ My interest lies in Data Science/Data Analysis and designing meaningful digital services 
 
